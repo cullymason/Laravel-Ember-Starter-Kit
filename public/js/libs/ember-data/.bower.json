@@ -1,0 +1,15 @@
+{
+  "name": "ember-data",
+  "homepage": "https://github.com/emberjs/data",
+  "version": "1.0.0-beta.2",
+  "_release": "1.0.0-beta.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0-beta.2",
+    "commit": "b4259a5991d10aaf31a4ed10b35908dd7b05b220"
+  },
+  "_source": "git://github.com/emberjs/data.git",
+  "_target": "~1.0.0-beta.2",
+  "_originalSource": "ember-data",
+  "_direct": true
+}
