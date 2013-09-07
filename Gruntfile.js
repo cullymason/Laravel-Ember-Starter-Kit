@@ -69,14 +69,14 @@ module.exports = function(grunt) {
               'public/js/libs/handlebars/handlebars.js',
               'public/js/libs/ember/ember.js',
               'public/js/libs/ember-data/ember-data.js',
-              'public/js/libs/bootstrap/dist/js/bootstrap.js']
+              'public/js/libs/bootstrap/dist/js/bootstrap.js'],
         dest: 'public/js/builds/libs.js',
         options: {
           separator: ';',
         }
       },
       css: {
-        src: ['public/js/bootstrap/dist/css/bootstrap.css','public/css/style.css'],
+        src: ['public/js/libs/bootstrap/dist/css/bootstrap.css','public/css/style.css'],
         dest: 'public/css/builds/main.css'
       },
       deploy: {
