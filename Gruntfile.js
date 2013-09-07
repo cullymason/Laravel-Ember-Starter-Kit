@@ -68,7 +68,7 @@ module.exports = function(grunt) {
               'public/js/libs/jquery/jquery.js',
               'public/js/libs/handlebars/handlebars.js',
               'public/js/libs/ember/ember.js',
-              'public/js/libs/ember-data/ember-data.js',
+              'public/js/libs/ember-data-shim/ember-data.js',
               'public/js/libs/bootstrap/dist/js/bootstrap.js'],
         dest: 'public/js/builds/libs.js',
         options: {

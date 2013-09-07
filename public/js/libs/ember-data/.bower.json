@@ -10,6 +10,5 @@
   },
   "_source": "git://github.com/emberjs/data.git",
   "_target": "~1.0.0-beta.2",
-  "_originalSource": "ember-data",
-  "_direct": true
+  "_originalSource": "ember-data"
 }

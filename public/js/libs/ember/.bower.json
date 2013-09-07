@@ -17,6 +17,5 @@
   },
   "_source": "git://github.com/components/ember.git",
   "_target": "~1.0.0",
-  "_originalSource": "ember",
-  "_direct": true
+  "_originalSource": "ember"
 }
