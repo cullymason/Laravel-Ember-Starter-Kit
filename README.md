@@ -12,7 +12,7 @@ Goals
 -----
 
 - ~~Integrate Ember tasks into Artisan commands (php artisan generate:model --Ember:true)~~
-- Integrate Ember-Laravel Generator [generator-ember-laravel](https://github.com/cullymason/generator-ember-laravel)
+- √ ~~Integrate Ember-Laravel Generator [generator-ember-laravel](https://github.com/cullymason/generator-ember-laravel)~~
 - Extend Laravel Model so that it spits out Ember Friendly JSON described in this [gist](https://gist.github.com/cullymason/6198667)
 - √ Integrate a JS package manager (Bower maybe?)
 - Keep it stream lined but easily expandable. 

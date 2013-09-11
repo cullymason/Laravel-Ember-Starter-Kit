@@ -39,6 +39,6 @@
     "grunt-contrib-qunit": "~0.2.2",
     "grunt-contrib-uglify": "~0.2.2",
     "grunt-contrib-watch": "~0.5.3",
-    "generator-ember-laravel": "~0.0.6"
+    "generator-ember-laravel": "~0.5.1"
   }
 }
